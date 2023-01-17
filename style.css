@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.star{
+    width: 100px;
+    height: auto;
+}
+
+.star-text, .star-score{
+    font-size: 50px;
+}
